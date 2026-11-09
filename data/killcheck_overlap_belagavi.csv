@@ -1,0 +1,31 @@
+set,crashes,deaths
+Prajavani,19,23
+Prajavani;Udayavani,3,5
+Asianet Suvarna,2,3
+Prajavani;Public TV,2,4
+Public TV;Vijayavani,2,4
+Asianet Suvarna;Deccan Herald;Kannada Prabha;New Indian Express;Prajavani;Public TV;Udayavani;Vijayavani,1,8
+Asianet Suvarna;Deccan Herald;Kannada Prabha;New Indian Express;Prajavani;Public TV;Udayavani,1,2
+Asianet Suvarna;Prajavani;Public TV;Vijayavani,1,1
+Asianet Suvarna;Deccan Herald;Prajavani;Public TV;Udayavani;Vijayavani,1,4
+Asianet Suvarna;Prajavani;Public TV,1,1
+Asianet Suvarna;Kannada Prabha;New Indian Express;Prajavani;Public TV;Udayavani;Vijayavani,1,4
+Deccan Herald;Prajavani,1,1
+Deccan Herald;Kannada Prabha;Prajavani,1,2
+Asianet Suvarna;Public TV;Udayavani,1,4
+Prajavani;Public TV;Vijayavani,1,1
+Public TV,1,2
+Udayavani,1,1
+Udayavani;Vijayavani,1,2
+Vijayavani,1,1
+unique to Asianet Suvarna,2,3
+unique to Deccan Herald,0,0
+unique to Kannada Prabha,0,0
+unique to New Indian Express,0,0
+unique to Prajavani,19,23
+unique to Public TV,1,2
+unique to Udayavani,1,1
+unique to Vijayavani,1,1
+English & Kannada (any),8,24
+English only,0,0
+Kannada only,34,49

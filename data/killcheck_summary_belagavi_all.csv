@@ -1,0 +1,12 @@
+scope,crashes,deaths,official_deaths,recall_deaths,official_fatal_crashes,recall_crashes
+Kannada + English outlets (existing file),42,73,913,0.08,857,0.049
+Marathi outlets (any),54,80,913,0.088,857,0.063
+Marathi only (not in Kannada/English file),37,39,913,0.043,857,0.043
+Kannada/English crashes also found in Marathi,17,41,913,0.045,857,0.02
+All-outlet union (Kannada + English + Marathi),79,112,913,0.123,857,0.092
+"All-outlet union, standard passes only (without Tarun Bharat pass-2b finds)",79,112,913,0.123,857,0.092
+outlet: Pudhari,16,33,913,0.036,857,0.019
+outlet: Sakal,21,39,913,0.043,857,0.025
+outlet: TV9 Marathi,3,7,913,0.008,857,0.004
+outlet: Tarun Bharat,31,50,913,0.055,857,0.036
+All-outlet union + borderline events (sensitivity),82,115,913,0.126,857,0.096

@@ -1,0 +1,11 @@
+ru,official_deaths,news_deaths_kn_en,news_crashes_kn_en,news_deaths_all,news_crashes_all,recall_deaths_kn_en,recall_deaths_all
+autorickshaw,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+bicycle,19.0,0.0,0.0,1.0,1.0,0.0,0.053
+bus,12.0,2.0,1.0,3.0,2.0,0.167,0.25
+car_taxi_van_lmv,91.0,30.0,12.0,33.0,15.0,0.33,0.363
+other_motor_vehicle,120.0,1.0,1.0,1.0,1.0,0.008,0.008
+other_non_motor,11.0,0.0,0.0,0.0,0.0,0.0,0.0
+pedestrian,144.0,5.0,4.0,8.0,7.0,0.035,0.056
+truck_lorry,68.0,0.0,0.0,2.0,1.0,0.0,0.029
+two_wheeler,443.0,35.0,24.0,58.0,46.0,0.079,0.131
+unknown,0.0,0.0,0.0,6.0,6.0,,

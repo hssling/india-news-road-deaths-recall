@@ -1,0 +1,38 @@
+{
+ "_note": "Values as printed in the manuscript (rounded as printed). verify.py recomputes each from data/ and outputs/.",
+ "dakshina_kannada": {
+  "fatal_crashes": 300, "deaths": 315, "news_crashes": 99, "news_deaths": 112,
+  "recall_deaths_pct": 35.6, "recall_crashes_pct": 33.0, "news_deaths_per_crash": 1.13, "police_deaths_per_crash": 1.05,
+  "excess_police": 15, "excess_news": 13, "excess_recall_pct": 86.7,
+  "bound_single_pct": [30.3, 30.4], "bound_multi_pct": [85.7, 92.3], "bound_M": [13, 14],
+  "spearman": 0.57, "chi2": 18.0, "chi2_p": 0.082,
+  "model_pi1": [30.5, 25.5, 36.1], "model_pi2": [83.0, 60.0, 96.1], "model_or": [11.2, 3.3, 56.0], "model_M": [13, 14],
+  "recall_pedestrian_pct": [22.1, 14.1, 31.9], "recall_two_wheeler_pct": [38.4, 30.4, 47.2], "or_pedestrian": [0.45, 0.24, 0.84],
+  "share_ratio_pedestrian": 0.67, "share_ratio_car": 1.29,
+  "transport_crude": 913, "transport_severity": [1262, 1001, 1616], "transport_own": [316, 272, 373],
+  "configurations": 2
+ },
+ "belagavi": {
+  "fatal_crashes": 857, "deaths": 913, "news_crashes": 79, "news_deaths": 112,
+  "recall_deaths_pct": 12.3, "recall_crashes_pct": 9.2, "news_deaths_per_crash": 1.42, "police_deaths_per_crash": 1.07,
+  "excess_police": 56, "excess_news": 33, "excess_recall_pct": 58.9,
+  "bound_single_pct": [6.9, 7.1], "bound_multi_pct": [47.7, 95.5], "bound_M": [22, 44],
+  "spearman": 0.02, "chi2": 28.1, "chi2_p": 0.003, "monthly_recall_range_pct": [3.1, 24.6],
+  "model_pi1": [7.1, 5.5, 9.1], "model_pi2": [57.2, 39.2, 75.6], "model_or": [17.3, 8.1, 41.8], "model_M": [30, 42],
+  "or_gradient": [14.4, 7.0, 33.6], "or_drop_largest": [13.9, 6.7, 29.6],
+  "recall_pedestrian_pct": [5.3, 2.6, 9.7], "recall_two_wheeler_pct": [11.7, 8.9, 14.9], "or_pedestrian": [0.43, 0.19, 0.85],
+  "share_ratio_pedestrian": 0.58, "share_ratio_car": 1.85,
+  "transport_crude": 315, "transport_severity": [256, 225, 300], "transport_own": [908, 733, 1146],
+  "any_kannada_pct": 8.0, "any_english_pct": 2.6, "any_marathi_pct": 8.8,
+  "marathi_only_crashes": 37, "marathi_only_deaths": 39, "marathi_only_single": 35,
+  "kn_en_pi1_pct": 2.9, "kn_en_or": [39.0, 16.8, 101.7],
+  "configurations": 887
+ },
+ "outlet_deaths_pct": {
+  "dakshina_kannada": {"Udayavani": 32.7, "Prajavani": 10.8, "Deccan Herald": 3.2},
+  "belagavi": {"Prajavani": 6.1, "Tarun Bharat": 5.5}
+ },
+ "articles_screened": 4152,
+ "max_rhat": 1.002,
+ "min_ess": 2321
+}

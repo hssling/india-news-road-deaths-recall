@@ -1,0 +1,10 @@
+ru,official_deaths,news_deaths,news_crashes,recall_deaths
+autorickshaw,5,0.0,0.0,0.0
+bicycle,19,0.0,0.0,0.0
+bus,12,2.0,1.0,0.167
+car_taxi_van_lmv,91,30.0,12.0,0.33
+other_motor_vehicle,120,1.0,1.0,0.008
+other_non_motor,11,0.0,0.0,0.0
+pedestrian,144,5.0,4.0,0.035
+truck_lorry,68,0.0,0.0,0.0
+two_wheeler,443,35.0,24.0,0.079

@@ -1,0 +1,5 @@
+scope,crashes,deaths,single_death_crashes,multi_death_crashes,deaths_in_multi,share_single,deaths_per_crash
+Kannada + English,42,73,23,19,50,0.548,1.74
+Marathi only,37,39,35,2,4,0.946,1.05
+All-outlet union,79,112,58,21,54,0.734,1.42
+Official 2022 (combined units),857,913,,,,,1.07

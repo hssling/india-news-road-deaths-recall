@@ -1,0 +1,55 @@
+crash_id,kind,date_gap_days,taluk_mr,taluk_existing,deaths_mr,deaths_existing,other_candidates_pm2d
+C064,new,,Belagavi City,,1,,
+C065,new,,Khanapur,,1,,
+C066,new,,Nippani,,2,,
+C046,new,,Belagavi,,2,,
+C047,new,,Chikkodi,,1,,"C045(Hukkeri,2d,2022-02-15)"
+C045,matched,0,Hukkeri,Hukkeri,2,2,C007
+C048,new,,Chikkodi,,1,,"C045(Hukkeri,2d,2022-02-15);C007(Chikkodi,2d,2022-02-17)"
+C067,new,,Khanapur,,1,,"C045(Hukkeri,2d,2022-02-15);C007(Chikkodi,2d,2022-02-17)"
+C007,matched,0,Chikkodi,Chikkodi,2,2,C045
+C049,new,,Chikkodi,,1,,"C045(Hukkeri,2d,2022-02-15);C007(Chikkodi,2d,2022-02-17)"
+C011,matched,0,Hukkeri,Hukkeri,4,4,
+C068,new,,Belagavi City,,1,,
+C050,new,,Nippani,,1,,
+C069,new,,Belagavi City,,1,,
+C051,new,,Chikkodi,,1,,"C043(Hukkeri,2d,2022-03-13)"
+C052,new,,Chikkodi,,1,,
+C053,new,,Belagavi City,,1,,
+C054,new,,Nippani,,1,,
+C055,new,,Athani,,1,,
+C056,new,,Kagwad,,1,,
+C070,new,,Chikkodi,,1,,
+C057,new,,Belagavi City,,1,,"C018(Hukkeri,1d,2022-05-17);C017(Belagavi,1d,2022-05-17)"
+C001,matched,0,Nippani,Nippani,4,4,
+C058,new,,Chikkodi,,1,,"C001(Nippani,4d,2022-05-27)"
+C059,new,,Belagavi,,1,,"C010(Belagavi,1d,2022-06-02)"
+C010,matched,0,Belagavi,Belagavi,1,1,
+C060,new,,Chikkodi,,1,,"C010(Belagavi,1d,2022-06-02)"
+C002,matched,0,Belagavi,Belagavi,8,8,C019
+C004,matched,0,Belagavi City,Belagavi City,1,1,C003;C020
+C021,matched,0,Belagavi,Belagavi,1,1,C020
+C071,new,,Belagavi,,1,,"C022(Belagavi,1d,2022-07-17)"
+C025,matched,0,Belagavi City,Belagavi City,1,1,C024;C012
+C072,new,,Hukkeri,,1,,"C025(Belagavi City,1d,2022-08-01);C012(Belagavi City,1d,2022-08-03)"
+C012,matched,0,Belagavi City,Belagavi City,1,1,C025
+C073,new,,Belagavi City,,1,,"C044(Saundatti,1d,2022-08-13);C027(Yaragatti,1d,2022-08-15)"
+C005,matched,0,Athani,Athani,2,2,C028
+C074,new,,Belagavi,,1,,"C005(Athani,2d,2022-08-20)"
+C006,matched,0,Saundatti,Saundatti,4,4,C013;C032
+C035,matched,0,Hukkeri,Hukkeri,2,2,
+C075,new,,Belagavi,,1,,"C035(Hukkeri,2d,2022-10-09)"
+C076,new,,Belagavi City,,1,,
+C036,matched,0,Ramdurg,Ramdurg,2,2,C040
+C077,new,,Khanapur,,1,,"C036(Ramdurg,2d,2022-10-15);C040(Nippani,1d,2022-10-16)"
+C037,matched,0,Kittur,Kittur,2,2,
+C061,new,,Nippani,,1,,"C037(Kittur,2d,2022-10-25)"
+C078,new,,Belagavi,,1,,"C014(Khanapur,2d,2022-11-15)"
+C014,matched,0,Khanapur,Khanapur,2,2,
+C079,new,,Hukkeri,,1,,
+C080,new,,Belagavi City,,1,,
+C081,new,,Chikkodi,,1,,
+C062,new,,Belagavi,,1,,
+C039,matched,0,Mudalgi,Mudalgi,2,2,
+C063,new,,Belagavi City,,1,,
+C082,new,,Belagavi,,1,,

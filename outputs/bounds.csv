@@ -1,0 +1,3 @@
+district,official_fatal_crashes,official_deaths,official_excess,news_crashes,news_deaths,news_single,news_multi,news_excess,unseen_excess,recall_deaths,recall_crashes,recall_excess_exact,M_official_lo,M_official_lo_capK,M_official_hi,recall_single_lo,recall_single_hi,recall_multi_lo,recall_multi_hi,recall_multi_hi_capK,log_or_lo
+Dakshina Kannada,300,315,15,99,112,87,12,13,2,0.35555555555555557,0.33,0.8666666666666667,13,13,14,0.30313588850174217,0.3041958041958042,0.8571428571428571,0.9230769230769231,0.9230769230769231,2.6241687171215076
+Belagavi,857,913,56,79,112,58,21,33,23,0.12267250821467689,0.09218203033838973,0.5892857142857143,22,24,44,0.06946107784431138,0.07134071340713408,0.4772727272727273,0.9545454545454546,0.875,2.504025561615501

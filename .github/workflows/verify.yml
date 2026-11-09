@@ -1,0 +1,16 @@
+name: reproduce-and-verify
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Redraw the figures from the committed model outputs
+        run: python src/07_figures.py --belagavi-crashes killcheck_crashes_belagavi_all.csv
+      - name: Verify every reported number
+        run: python verify.py

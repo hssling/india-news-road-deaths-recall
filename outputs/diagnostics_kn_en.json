@@ -1,0 +1,43 @@
+{
+ "A_main_Dakshina Kannada": {
+  "rhat": 1.0000287294387817,
+  "ess": 4638.287327492489,
+  "divergences": 0,
+  "n_configurations": 2
+ },
+ "A_main_Belagavi": {
+  "rhat": 1.000569462776184,
+  "ess": 3753.32725035647,
+  "divergences": 0,
+  "n_configurations": 1291
+ },
+ "A_gradient_Dakshina Kannada": {
+  "rhat": 1.0002899169921875,
+  "ess": 4949.473620379441,
+  "divergences": 0,
+  "n_configurations": 2
+ },
+ "A_gradient_Belagavi": {
+  "rhat": 1.0004496574401855,
+  "ess": 2043.2346917673474,
+  "divergences": 0,
+  "n_configurations": 1291
+ },
+ "A_drop_largest_Dakshina Kannada": {
+  "rhat": 1.0000827312469482,
+  "ess": 4914.302942325903,
+  "divergences": 0,
+  "n_configurations": 2
+ },
+ "A_drop_largest_Belagavi": {
+  "rhat": 1.0009698867797852,
+  "ess": 4040.9070326262986,
+  "divergences": 0,
+  "n_configurations": 1291
+ },
+ "B": {
+  "rhat": 1.0016446113586426,
+  "ess": 2431.5854525850723,
+  "divergences": 0
+ }
+}

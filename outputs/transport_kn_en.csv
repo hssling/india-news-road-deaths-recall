@@ -1,0 +1,3 @@
+target,recall_from,official_deaths,news_deaths,crude_correction_med,crude_correction_lo,crude_correction_hi,severity_correction_med,severity_correction_lo,severity_correction_hi,own_district_severity_correction_med,own_district_severity_correction_lo,own_district_severity_correction_hi
+Belagavi,Dakshina Kannada,913,73,205.3125,205.3125,205.3125,136.66507310685893,120.91988803202656,163.0748087389588,892.9996331457135,639.623000389301,1305.9522618557019
+Dakshina Kannada,Belagavi,315,112,1400.7671232876712,1400.7671232876712,1400.7671232876712,3057.9862059360958,2112.615159438758,4614.96908302952,315.8083876598304,271.9948167065369,372.8360855550292

@@ -1,0 +1,107 @@
+ref,crash_id,crash_date,place,taluk,in_district,fatal,deaths,victim_types,vehicles,basis,scope
+TV9 Marathi:0,C042,2022-04-19,Club Road (Belagavi city) storm,Belagavi City,Y,Y,1,two_wheeler,bike;tree,full_text,borderline
+TV9 Marathi:1,C001,2022-05-27,Tavandi ghat (Stavanidhi) NH-48 Nippani,Nippani,Y,Y,4,car,car;container,full_text,core
+TV9 Marathi:2,C012,2022-08-03,Camp area MLIRC (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,truck;bike,full_text,core
+Pudhari:3,M01,2022-02-09,Zadshahapur Khanapur-Belagavi road,Belagavi,Y,Y,2,two_wheeler,bike;divider,full_text,core
+Pudhari:4,C045,2022-02-15,Kanagala circle NH-48 (Sankeshwar PS),Hukkeri,Y,Y,2,car,Bolero goods;car,full_text,core
+Pudhari:5,X,2022-02-14,Kagani bend Kowad-Belgaum road (Chandgad),Chandgad (Kolhapur),N,Y,1,two_wheeler,moped,full_text,core
+Pudhari:6,C007,2022-02-17,Kerurwadi cross Chikkodi-Miraj road,Chikkodi,Y,Y,2,two_wheeler,KSRTC bus;bike,full_text,core
+Pudhari:15,,2022-03-30,Janwad field (Nippani),Nippani,Y,Y,1,other,tractor,full_text,not_road
+Pudhari:18,X,2022-04-24,Tambulwadi phata Belgaum-Vengurla road (Chandgad),Chandgad (Kolhapur),N,Y,1,pedestrian,car,full_text,core
+Pudhari:19,N,2022-05-01,Soundalga NH (Nippani),Nippani,Y,N,0,car,car,full_text,core
+Pudhari:23,C001,2022-05-27,Tavandi ghat NH-48 (Nippani),Nippani,Y,Y,4,car,car;container,full_text,core
+Pudhari:24,C001,2022-05-27,Tavandi ghat hotel Amar NH-48 (Nippani),Nippani,Y,Y,4,car,car;container,full_text,core
+Pudhari:25,M02,2022-05-29,Manjari Krishna new bridge (Chikkodi-Chandur road),Chikkodi,Y,Y,1,two_wheeler,KSRTC bus;bike,full_text,core
+Pudhari:27,X,2022-06-03,Borawade bridge Radhanagari-Sarwade road (Kolhapur),Radhanagari (Kolhapur),N,Y,2,two_wheeler,truck;bike,full_text,core
+Pudhari:28,C010,2022-06-02,near Suvarna Soudha NH (Belagavi),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Sakal:9,X,2022-02-14,Kagani bend Kowad-Belgaum road (Chandgad),Chandgad (Kolhapur),N,Y,1,two_wheeler,moped,full_text,core
+Sakal:10,C045,2022-02-15,Kanagale NH-48 (Sankeshwar PS),Hukkeri,Y,Y,2,car,car;jeep,full_text,core
+Sakal:11,M03,2022-02-17,Chand Shiradwad (Chikkodi-Borgaon road),Chikkodi,Y,Y,1,two_wheeler,bike;divider,full_text,core
+Sakal:12,C011,2022-02-24,Sankeshwar bypass near NH (Hukkeri),Hukkeri,Y,Y,4,two_wheeler,bike,full_text,core
+Sakal:14,M04,2022-03-09,Nippani-Murgud road near Devchand college,Nippani,Y,Y,1,two_wheeler,bike;bike,full_text,core
+Sakal:15,M05,2022-03-20,Old PB road Ballari nala Vadgaon (Belagavi city),Belagavi City,Y,Y,1,pedestrian,goods tempo,full_text,core
+Sakal:22,M06,2022-04-10,Badchi Vijayapur-Athani road,Athani,Y,Y,1,two_wheeler,tipper;bike,full_text,core
+Sakal:24,M07,2022-04-06,Samadhi Math Nippani-Chikkodi SH,Nippani,Y,Y,1,two_wheeler,bike (dog crossed),full_text,core
+Sakal:28,C042,2022-04-19,Club Road (Belagavi city) storm,Belagavi City,Y,Y,1,two_wheeler,bike;tree,full_text,borderline
+Sakal:31,M08,2022-05-08,near Mangasuli (Kagwad taluk),Kagwad,Y,Y,1,unknown,unknown,full_text,core
+P2:TV9 Marathi:36,C005,2022-08-20,Athani-Miraj road (Athani),Athani,Y,Y,2,bus,college bus;tempo,full_text,core
+Pudhari:31,N,2022-06-10,Belagavi (two buses),Belagavi,Y,N,0,bus,bus;bus,full_text,core
+Pudhari:32,N,2022-06-11,Belagavi-Goa highway,Khanapur,Y,N,0,car,car,full_text,core
+Pudhari:37,C002,2022-06-26,Kalyal bridge (Belagavi-Gokak road),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Pudhari:38,N,2022-07-15,Dudhganga river (car into river),Nippani,Y,N,0,car,car,full_text,core
+Pudhari:46,C025,2022-08-01,Belagavi city (college girl run over by truck),Belagavi City,Y,Y,1,two_wheeler,truck;bike,full_text,core
+Sakal:35,M09,2022-05-19,Bhutramanhatti RCU cross NH-48 (Kakati PS),Belagavi City,Y,Y,1,bus,private bus;vehicle,full_text,core
+Sakal:37,X,2022-05-21,Bad village (Dharwad taluk),Dharwad,N,Y,7,car,cruiser;tree,full_text,core
+Sakal:38,X,2022-05-21,Kucheli Shioli-Mapusa road (Goa),Goa,N,Y,3,car,car;tree,full_text,core
+Sakal:40,X,2022-05-21,Kucheli Shioli-Mapusa road (Goa),Goa,N,Y,3,car,car;tree,full_text,core
+Sakal:41,C001,2022-05-27,Tavandi ghat hotel Amar NH-48,Nippani,Y,Y,4,car,car;container,full_text,core
+Sakal:46,C010,2022-06-02,Halga NH-48 (Belagavi),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;moped,full_text,core
+Sakal:49,C002,2022-06-26,Kalyal bridge Khangaon (Ballari nala),Belagavi,Y,Y,8,car,cruiser,full_text,core
+Pudhari:50,N,2022-08-05,Belagavi (bus overturned off bridge),Belagavi,Y,N,0,bus,bus,full_text,core
+Pudhari:51,N,2022-08-08,Belagavi (bus overturned),Belagavi,Y,N,0,bus,bus,full_text,core
+Pudhari:53,C005,2022-08-20,Athani town main road,Athani,Y,Y,2,bus,college bus;tempo,full_text,core
+Pudhari:58,C031,2022-09-13,Channamma circle-RTO road near Maratha Mandal school (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,bike;tree,full_text,borderline
+Pudhari:61,N,2022-09-29,Yamgarni (truck overturned),Nippani,Y,N,0,truck,truck,full_text,core
+Pudhari:63,C035,2022-10-09,near Hukkeri (car-bike),Hukkeri,Y,Y,2,two_wheeler,car;bike,full_text,core
+Sakal:52,C021,2022-07-11,Bokanur cross Belgundi road,Belagavi,Y,Y,1,car,car;tree,full_text,core
+Sakal:55,C025,2022-08-01,Khimjibhai petrol pump old vegetable market (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,sand truck,full_text,core
+Sakal:56,C005,2022-08-20,Athani,Athani,Y,Y,2,bus,college bus;tempo,full_text,core
+Sakal:58,C006,2022-09-25,Belagavi-Bagalkot road (Murgod PS Saundatti),Saundatti,Y,Y,4,car,truck;car;bike,full_text,core
+Pudhari:68,C037,2022-10-25,Itagi cross Pune-Bengaluru NH (Kittur),Kittur,Y,Y,2,pedestrian,car,full_text,core
+Pudhari:69,M10,2022-10-26,Yamgarni Pune-Bengaluru NH (Basaveshwar Chowk PS Nippani),Nippani,Y,Y,1,pedestrian,unknown vehicle,full_text,core
+Pudhari:70,C037,2022-10-25,Itagi cross Pune-Bengaluru NH (Kittur),Kittur,Y,Y,2,pedestrian,Santro car,full_text,core
+Pudhari:71,N,2022-10-30,Chorla ghat (truck overturned; Goa side),Khanapur,U,N,0,truck,truck,full_text,core
+Pudhari:73,C014,2022-11-15,Rumewadi cross highway Khanapur town,Khanapur,Y,Y,2,two_wheeler,dumper;bike;bike,full_text,core
+P2:Sakal:1,M11,2022-02-14,Navalihal cross (Chikkodi),Chikkodi,Y,Y,1,two_wheeler,bus;bike,full_text,core
+P2:Sakal:2,M12,2022-02-15,Mangur-Kunnur road Dudhganga bridge,Chikkodi,Y,Y,1,two_wheeler,bike;parapet,full_text,core
+P2:Sakal:4,M13,2022-03-14,Khadaklat (manure truck hit tree),Chikkodi,Y,Y,1,unknown,truck;tree,full_text,core
+P2:Sakal:6,M14,2022-03-17,Kamatmanjari-Yedur road (Chikkodi),Chikkodi,Y,Y,1,two_wheeler,bike (pillion fall),full_text,core
+Pudhari:77,M15,2022-12-05,Rakaskop bridge (Tudye-Rakaskop road),Belagavi,Y,Y,1,unknown,bagasse truck,full_text,core
+Pudhari:78,,2022-12-08,Tundla railway station (Uttar Pradesh),,N,Y,1,other,train,full_text,not_road
+Pudhari:80,N,2022-12-11,near Nippani (truck-car),Nippani,Y,N,0,car,truck;car,full_text,core
+Pudhari:82,M16,2022-12-16,Bhagyanagar 4th cross Anagol (Belagavi city),Belagavi City,Y,Y,1,bicycle,tipper,full_text,core
+P2:Sakal:14,M17,2022-06-01,Sutgatti NH-48 (Belagavi taluk),Belagavi,Y,Y,1,two_wheeler,canter;truck;bike,full_text,core
+P2:TV9 Marathi:70,X,2022-12-08,Kalaburagi/Koppal region (car into parked container),Kalaburagi,N,Y,2,car,car;container,full_text,core
+P2:Pudhari:53,M18,2022-06-04,near Jainapur (Chikkodi),Chikkodi,Y,Y,1,two_wheeler,dumper;bike,full_text,core
+P2:Pudhari:73,X,2022-07-10,Pandharpur phata (Solapur Maharashtra),,N,Y,2,car,vehicle,full_text,core
+P2:Pudhari:131,X,2022-10-27,Vijayapura district (en route to Akkalkot),Vijayapura,N,Y,2,car,tempo trax;tractor,full_text,core
+Tarun Bharat:0,M19,2022-01-20,near Kanakumbi (Khanapur PS) towards Goa,Khanapur,Y,Y,1,car,car;tree,full_text,core
+Tarun Bharat:6,M01,2022-02-09,Zadshahapur divider Belagavi-Panaji highway,Belagavi,Y,Y,2,two_wheeler,bike;divider,full_text,core
+Tarun Bharat:8,M20,2022-03-10,Bhutramanhatti Pune-Bengaluru NH,Belagavi City,Y,Y,1,unknown,triple collision,full_text,core
+Tarun Bharat:14,X,2022-05-22,Kucheli Mapusa (Goa),Goa,N,Y,3,car,car;tree,full_text,core
+Tarun Bharat:23,C002,2022-06-26,Kabalapur road near Gokak (Kalyal bridge),Belagavi,Y,Y,8,car,cruiser,full_text,core
+Tarun Bharat:30,C021,2022-07-11,Bokanur cross Belagavi-Rakaskop road,Belagavi,Y,Y,1,car,car;tree,full_text,core
+Tarun Bharat:31,M21,2022-07-15,Hirebagewadi IB Pune-Bengaluru NH,Belagavi,Y,Y,1,two_wheeler,Eicher truck;bike,full_text,core
+Tarun Bharat:38,C012,2022-08-03,Camp area (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,truck;moped,full_text,core
+Tarun Bharat:55,C036,2022-10-15,near Halagatti (Ramdurg),Ramdurg,Y,Y,2,two_wheeler,truck;bike,full_text,core
+Tarun Bharat:56,M22,2022-10-16,Savali naka near Jamboti (Khanapur PS),Khanapur,Y,Y,1,two_wheeler,bike;tree,full_text,core
+Tarun Bharat:60,C014,2022-11-15,Belagavi-Goa road Khanapur,Khanapur,Y,Y,2,two_wheeler,tipper;bike,full_text,core
+Tarun Bharat:64,C004,2022-07-08,Goaves circle LIC office premises (Belagavi city),Belagavi City,Y,Y,1,pedestrian,car,full_text,core
+Tarun Bharat:66,N,2022-11-24,Belgundi phata Belagavi-Vengurla road,Belagavi,Y,N,0,two_wheeler,car;bike,full_text,core
+Tarun Bharat:67,N,2022-08-07,Badekollamath cross NH (Hirebagewadi ghat),Belagavi,Y,N,0,bus,KSRTC bus,full_text,core
+Tarun Bharat:70,C005,2022-08-20,Athani Miraj-Vijayapur road,Athani,Y,Y,2,bus,college bus;tempo,full_text,core
+Tarun Bharat:71,M23,2022-11-27,Honnoli phata NH-48 (Sankeshwar),Hukkeri,Y,Y,1,car,car;tractor,full_text,core
+Tarun Bharat:72,M24,2022-11-27,Honga Pune-Bengaluru NH (Kakati PS),Belagavi City,Y,Y,1,two_wheeler,truck;bike,full_text,core
+Tarun Bharat:78,M25,2022-12-04,Nanadi cross Chikkodi-Ekasamba road,Chikkodi,Y,Y,1,two_wheeler,bike (fell into pit),full_text,core
+Tarun Bharat:79,C039,2022-12-08,Gurlapur Mudhol-Nippani SH-18,Mudalgi,Y,Y,2,car,Tiago;Ertiga,full_text,core
+Tarun Bharat:48,M26,2022-08-22,Halga-Bastwad NH service road,Belagavi,Y,Y,1,two_wheeler,bike;parked heavy vehicle,full_text,core
+Tarun Bharat:81,,2022-12-08,Tundla railway station (Uttar Pradesh),,N,Y,1,other,train,full_text,not_road
+Tarun Bharat:82,M27,2022-12-17,Kinaye-Piranwadi road,Belagavi,Y,Y,1,pedestrian,tanker,full_text,core
+P2:Tarun Bharat:0,X,2022-01-01,Barmer military camp (Rajasthan),,N,Y,1,two_wheeler,bike,full_text,core
+P2:Tarun Bharat:4,M29,2022-01-12,Yamnapur Pune-Bengaluru NH (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,bike;tractor,full_text,core
+P2:Tarun Bharat:7,M30,2022-01-23,Tavandi ghat second bend NH-48,Nippani,Y,Y,2,truck,container (overturned),full_text,core
+P2:Tarun Bharat:11,X,2022-02-03,Guyilalu toll gate Hiriyur (Chitradurga),Chitradurga,N,Y,3,car,car;tanker,full_text,core
+P2:Tarun Bharat:14,M31,2022-02-16,Rumewadi cross Khanapur-Nandgad road,Khanapur,Y,Y,1,two_wheeler,tractor;bike,full_text,core
+P2:Tarun Bharat:15,C011,2022-02-24,Sankeshwar Parvatrao petrol pump service road,Hukkeri,Y,Y,4,two_wheeler,bike,full_text,core
+P2:Tarun Bharat:19,M28,2022-03-07,College Road near Pawan hotel (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,bike (skid),full_text,core
+P2:Tarun Bharat:34,M37,2022-05-14,Basanalgadde near Kerur phata Sankeshwar-Jewargi SH,Chikkodi,Y,Y,1,two_wheeler,car;bike,full_text,core
+P2:Tarun Bharat:37,C001,2022-05-27,Tavandi ghat NH-48,Nippani,Y,Y,4,car,container;car,full_text,core
+P2:Tarun Bharat:57,C002,2022-06-26,Kallal (Kalyal) bridge Belagavi-Gokak road,Belagavi,Y,Y,7,car,cruiser,full_text,core
+P2:Tarun Bharat:77,M33,2022-08-03,Hattargi NH-48 (bus-car),Hukkeri,Y,Y,1,car,bus;car,full_text,core
+P2:Tarun Bharat:85,M32,2022-08-15,Vadgaon-Yellur road near Ballari nala rice mill,Belagavi City,Y,Y,1,two_wheeler,bike (skid),full_text,core
+P2:Tarun Bharat:119,M34,2022-10-11,Omkarnagar Machhe (Waghwade road),Belagavi,Y,Y,1,unknown,truck,full_text,core
+P2:Tarun Bharat:121,M35,2022-10-12,Ram dhaba Pune-Bengaluru NH (Kakati PS),Belagavi City,Y,Y,1,two_wheeler,truck;bike,full_text,core
+P2:Tarun Bharat:141,M36,2022-11-13,Badekollamath cross NH (Hirebagewadi PS),Belagavi,Y,Y,1,unknown,tractor;truck,full_text,core
+P2:Tarun Bharat:169,M15,2022-12-05,Rakaskop-Sonoli bridge (Belagavi taluk),Belagavi,Y,Y,1,unknown,truck (fell off bridge),full_text,core
+P2B:Tarun Bharat:140,C012,2022-08-03,Camp area (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,truck;moped,full_text,core
+Tarun Bharat:34,X,2022-07-18,West Bengal,,N,Y,1,unknown,unknown,full_text,core

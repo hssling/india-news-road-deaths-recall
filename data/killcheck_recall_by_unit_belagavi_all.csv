@@ -1,0 +1,3 @@
+unit,official_deaths,official_fatal_crashes,news_crashes_kn_en,news_deaths_kn_en,news_crashes_all,news_deaths_all,recall_deaths_kn_en,recall_crashes_kn_en,recall_deaths_all,recall_crashes_all
+Belagavi City,167,155.0,7,7,16,16,0.042,0.045,0.096,0.103
+Belagavi Dist,746,702.0,35,66,63,96,0.088,0.05,0.129,0.09

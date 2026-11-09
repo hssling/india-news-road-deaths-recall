@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "News reports of road deaths in two Karnataka districts, 2022: coded crash files and code"
+authors:
+  - family-names: "Siddalingaiah"
+    given-names: "H S"
+    orcid: "https://orcid.org/0000-0002-4771-8285"
+    affiliation: "Shridevi Institute of Medical Sciences and Research Hospital, Tumakuru, Karnataka, India"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/hssling/india-news-road-deaths-recall"

@@ -1,0 +1,157 @@
+ref,crash_id,crash_date,place,taluk,in_district,fatal,deaths,victim_types,vehicles,basis,scope
+Deccan Herald:0,X,2022-02-03,Guyilalu toll gate (Hiriyur),Chitradurga,N,Y,3,car,car;tanker,full_text,core
+Deccan Herald:3,C001,2022-05-27,Stavanidhi (Nippani) NH-48 service road,Nippani,Y,Y,4,car,car;container truck,full_text,core
+Deccan Herald:4,C001,2022-05-27,Stavanidhi (Nippani) NH-48 service road,Nippani,Y,Y,4,car,car;truck,full_text,core
+Deccan Herald:5,C002,2022-06-26,Kalyal bridge near Kabalapur/Kanabargi (Belagavi taluk),Belagavi,Y,Y,7,car,MUV(cruiser);bridge,full_text,core
+Deccan Herald:6,C003,2022-07-08,Raddderahatti (Athani) irrigation canal,Athani,Y,Y,2,car,car;canal,full_text,core
+Deccan Herald:7,C004,2022-07-08,Basaweshwar Circle Goaves (Belagavi city),Belagavi City,Y,Y,1,pedestrian,car,full_text,core
+Deccan Herald:8,,2022-07-18,unknown (victim from Jamboti Khanapur),,U,Y,1,unknown,unknown,full_text,core
+Deccan Herald:9,C005,2022-08-20,Athani town (near high school),Athani,Y,Y,2,bus,school bus;truck,full_text,core
+Deccan Herald:13,N,2022-11-28,Khanapur village,Khanapur,Y,N,0,,bus,full_text,core
+New Indian Express:7,C002,2022-06-26,Kalyal bridge near Kabalapur (Belagavi taluk),Belagavi,Y,Y,7,car,MUV(cruiser);bridge,full_text,core
+New Indian Express:8,C002,2022-06-26,Kalyal bridge near Kabalapur (Belagavi taluk),Belagavi,Y,Y,7,car,MUV(cruiser);bridge,full_text,core
+New Indian Express:10,C006,2022-09-25,Halaki-Budigoppa Cross Yaragatti road (Saundatti),Saundatti,Y,Y,4,car,lorry;car;two-wheeler,full_text,core
+Kannada Prabha:1,C002,2022-06-26,Kanabargi near Belagavi (Ballari nala),Belagavi,Y,Y,7,car,cruiser;canal,full_text,core
+Kannada Prabha:2,C003,2022-07-08,Raddderahatti (Athani) Halyal lift-irrigation canal,Athani,Y,Y,2,car,car;canal,full_text,core
+Kannada Prabha:4,C005,2022-08-20,Athani outskirts,Athani,Y,Y,2,bus,school bus;container,full_text,core
+Kannada Prabha:5,N,2022-08-31,Harugeri (Raibag),Raibag,Y,N,0,,car;bike,full_text,core
+Kannada Prabha:7,X,2022-10-27,Dhulkhed NH-50 (Indi),Vijayapura,N,Y,2,car,cruiser;tractor,full_text,core
+P2:New Indian Express:30,C005,2022-08-20,Athani,Athani,Y,Y,2,bus,school bus;truck,full_text,core
+P2:Kannada Prabha:25,C006,2022-09-25,Budigoppa Cross state highway (Saundatti),Saundatti,Y,Y,4,car,lorry;car;bike,full_text,core
+Vijayavani:3,C007,2022-02-17,Kerurwadi Chikkodi-Miraj highway,Chikkodi,Y,Y,2,two_wheeler,KSRTC bus;bike,full_text,core
+Vijayavani:9,C001,2022-05-27,Stavanidhi ghat (Nippani),Nippani,Y,Y,4,car,car;lorry,full_text,core
+Vijayavani:10,C010,2022-06-02,near Suvarna Vidhana Soudha NH (Halaga),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Vijayavani:13,C002,2022-06-26,Kalyal pul near Kanabargi (Belagavi taluk),Belagavi,Y,Y,8,car,cruiser;canal,full_text,core
+Vijayavani:14,C008,2022-08-06,Pantnagar Pant Balekundri (Belagavi taluk),Belagavi,Y,Y,2,two_wheeler,bike;tipper,full_text,core
+Vijayavani:24,C006,2022-09-25,Budigoppa Cross (Saundatti),Saundatti,Y,Y,4,car,lorry;car;bike,full_text,core
+Vijayavani:25,C009,2022-10-06,Yaragatti (in front of Bhireshwar bank),Yaragatti,Y,Y,1,pedestrian,car;parked lorry,full_text,core
+Asianet:1,C001,2022-05-27,Stavanidhi ghat (Nippani),Nippani,Y,Y,4,car,car;lorry,full_text,core
+Asianet:11,C011,2022-02-24,Sankeshwar outskirts NH-4 (Hukkeri),Hukkeri,Y,Y,4,two_wheeler,bike,full_text,core
+Asianet:20,C010,2022-06-02,NH-4 near Hirebagewadi rice mill,Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Asianet:21,C010,2022-06-02,near Halaga village (Belagavi taluk),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Asianet:22,C002,2022-06-26,Kalyal pul (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser;canal,full_text,core
+Asianet:23,C002,2022-06-26,Kalyal pul (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser;canal,full_text,core
+Asianet:24,C002,2022-06-26,Kalyal pul (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser;canal,full_text,core
+Asianet:28,X,2022-07-20,West Bengal,,N,Y,1,pedestrian,lorry,full_text,core
+Asianet:30,C012,2022-08-03,Camp near Welcome Hotel Belagavi-Khanapur road,Belagavi City,Y,Y,1,two_wheeler,lorry;two-wheeler,full_text,core
+Asianet:32,C005,2022-08-20,Athani,Athani,Y,Y,2,bus,college/school bus;lorry,full_text,core
+Asianet:37,N,2022-08-31,Hyarohalli (Raibag),Raibag,Y,N,0,,car;bike,full_text,core
+Asianet:41,C006,2022-09-25,Budigoppa Cross (Saundatti),Saundatti,Y,Y,4,car,lorry;car;bike,full_text,core
+Asianet:41,C013,2022-09-25,near Ukkada village NH (Belagavi taluk),Belagavi City,Y,Y,1,car,car;tree,full_text,core
+Asianet:42,C006,2022-09-25,Budigoppa Cross (Saundatti),Saundatti,Y,Y,3,car,lorry;car;bike,full_text,core
+Asianet:45,C015,2022-10-23,Gandhinagar NH (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,two-wheeler;kite string,full_text,borderline
+Asianet:48,C014,2022-11-15,Khanapur town outskirts,Khanapur,Y,Y,2,two_wheeler,lorry (brake failure);bike,full_text,core
+P2:Asianet:36,C002,2022-06-26,Belagavi (cruiser),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:8,X,2022-02-28,near Tumakuru,Tumakuru,N,Y,1,unknown,unknown,full_text,core
+Prajavani:11,C016,2022-03-25,Kyaraguddha Hukkeri outskirts,Hukkeri,Y,Y,1,car,car;tree,full_text,core
+Prajavani:25,C017,2022-05-17,Mutnal near Hirebagewadi NH-4,Belagavi,Y,Y,1,two_wheeler,car;bike,full_text,core
+Prajavani:26,C018,2022-05-17,Katabali near Yamakanmardi,Hukkeri,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Prajavani:30,C001,2022-05-27,Stavanidhi service road near Amar hotel (Nippani),Nippani,Y,Y,4,car,lorry;car,full_text,core
+Prajavani:31,C010,2022-06-02,near Suvarna Vidhana Soudha (Belagavi),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Prajavani:34,C019,2022-06-25,near Kolhapur Circle (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,tanker;bike,full_text,core
+Prajavani:36,C002,2022-06-26,Kalyal (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:38,C002,2022-06-26,Kalyal village (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:39,C002,2022-06-26,Kalyal (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:40,C002,2022-06-26,Kallal/Kalyal (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:41,C002,2022-06-26,Kalyal (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Prajavani:42,C002,2022-06-26,Kalyal bridge (Belagavi taluk),Belagavi,Y,Y,8,car,cruiser,full_text,core
+Prajavani:49,C003,2022-07-08,Raddderahatti (Athani) canal,Athani,Y,Y,2,car,car;canal,full_text,core
+Prajavani:50,N,2022-07-08,Belagavi,Belagavi,Y,N,0,,bus;bus,full_text,core
+Prajavani:51,C004,2022-07-08,Basaveshwar Circle LIC office (Belagavi city),Belagavi City,Y,Y,1,pedestrian,car,full_text,core
+Prajavani:52,X,2022-07-10,Sangola (Solapur Maharashtra),,N,Y,2,car,car,full_text,core
+Prajavani:55,C020,2022-07-10,Lolasur outskirts (Gokak),Gokak,Y,Y,1,pedestrian,cruiser,full_text,core
+Prajavani:56,C021,2022-07-11,Rakkaskoppa-Belagundi road (Belagavi taluk),Belagavi,Y,Y,1,car,car;tree,full_text,core
+Prajavani:64,C022,2022-07-17,Desur cross (Belagavi taluk),Belagavi,Y,Y,1,two_wheeler,bike;lorry,full_text,core
+Prajavani:65,X,2022-07-18,Panjipara (West Bengal),,N,Y,1,pedestrian,lorry,full_text,core
+Prajavani:68,X,2022-07-18,Panjipara (West Bengal),,N,Y,1,pedestrian,lorry,full_text,core
+Prajavani:69,C023,2022-07-19,Jalikoppa state highway (Bailhongal),Bailhongal,Y,Y,2,two_wheeler,car;bike,full_text,core
+Prajavani:77,,2022-07-30,Tilakwadi first gate (Belagavi city),Belagavi City,Y,Y,1,pedestrian,train,full_text,not_road
+Prajavani:78,C024,2022-07-30,Maratha Mandal Engineering College Pune-Bengaluru NH (city outskirts),Belagavi City,Y,Y,1,two_wheeler,lorry;bike,full_text,core
+Prajavani:79,C025,2022-08-01,Kote road petrol pump (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,sand lorry;bike,full_text,core
+Prajavani:83,C012,2022-08-03,Camp fish-market road (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,lorry,full_text,core
+Prajavani:84,C026,2022-08-06,Sambra road (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,lorry;bike,full_text,core
+Prajavani:85,C027,2022-08-15,Yaragatti outskirts Belagavi-Bagalkot road,Yaragatti,Y,Y,1,two_wheeler,car;bike,full_text,core
+Prajavani:86,C028,2022-08-18,Shiradhana cross Bellad Bagewadi road (Hukkeri),Hukkeri,Y,Y,2,two_wheeler,bike;bike,full_text,core
+Prajavani:88,C005,2022-08-20,Athani Miraj road,Athani,Y,Y,2,bus,college bus;canter,full_text,core
+Prajavani:89,C005,2022-08-20,Athani outskirts Miraj road,Athani,Y,Y,2,bus,college bus;canter,full_text,core
+Prajavani:93,C029,2022-08-27,Karoshi near Ghatti Basaveshwar temple (Chikkodi),Chikkodi,Y,Y,1,two_wheeler,bike;bike,full_text,core
+Prajavani:94,C030,2022-08-30,Sajjihal cross near Gokak,Gokak,Y,Y,1,two_wheeler,bike;bike,full_text,core
+Prajavani:96,N,2022-08-31,Hyarohalli (Raibag),Raibag,Y,N,0,,car,full_text,core
+Prajavani:97,N,2022-09-02,Belagavi district,,Y,N,0,,bus,full_text,core
+Prajavani:109,N,2022-09-11,Bailhongal,Bailhongal,Y,N,0,,car;pole,full_text,core
+Prajavani:111,C031,2022-09-13,Sangolli Rayanna circle (Belagavi city),Belagavi City,Y,Y,1,two_wheeler,bike;tree,full_text,borderline
+Prajavani:121,C006,2022-09-25,Budigoppa Cross state highway (Saundatti),Saundatti,Y,Y,4,car,lorry;car;bike,full_text,core
+Prajavani:125,C032,2022-09-26,Holemmana gudi halla near Hukkeri,Hukkeri,Y,Y,2,two_wheeler,unknown vehicle;bike,full_text,core
+Prajavani:127,C033,2022-09-28,Boragaon outskirts (Nippani),Nippani,Y,Y,1,two_wheeler,maxicab;bike,full_text,core
+Prajavani:134,C034,2022-10-04,Kurli Pune-Bengaluru NH (Nippani),Nippani,Y,Y,2,two_wheeler,bike,full_text,core
+Prajavani:138,C009,2022-10-06,Yaragatti Belagavi-Bagalkot SH,Yaragatti,Y,Y,1,pedestrian,car;parked goods lorry,full_text,core
+Prajavani:141,C035,2022-10-09,Rakshi cross near Hukkeri,Hukkeri,Y,Y,2,car,car;car;car,full_text,core
+Prajavani:145,C040,2022-10-16,Karadaga river (Nippani),Nippani,Y,Y,1,two_wheeler,bike;river,full_text,core
+Prajavani:146,C036,2022-10-15,Halagatti bridge (Ramdurg),Ramdurg,Y,Y,2,two_wheeler,truck;bike,full_text,core
+Prajavani:148,C015,2022-10-23,Belagavi,Belagavi City,Y,Y,1,two_wheeler,two-wheeler;kite string,full_text,borderline
+Prajavani:151,N,2022-10-25,Belagavi district,,Y,N,0,,tractor;lorry,full_text,core
+Prajavani:152,C037,2022-10-25,Chennamma Kittur,Kittur,Y,Y,2,pedestrian,car,full_text,core
+Prajavani:156,X,2022-10-27,Dhulkhed NH-50 (Indi),Vijayapura,N,Y,2,car,cruiser;tractor,full_text,core
+Prajavani:160,C038,2022-11-04,Karadaga-Bhoj highway (Nippani),Nippani,Y,Y,1,other,tractor,full_text,core
+Prajavani:162,N,2022-11-13,Belagavi,,Y,N,0,,lorry;tractor;bikes,full_text,core
+Prajavani:168,N,2022-11-27,Hosavantamuri ghat,Belagavi,Y,N,0,,multiple,full_text,core
+Prajavani:172,N,2022-12-01,Belagavi district,,Y,N,0,,car;bikes,full_text,core
+Prajavani:175,C039,2022-12-08,Gurlapur Mudhol-Nippani SH-18 (Mudalgi),Mudalgi,Y,Y,2,car,car;car,full_text,core
+Udayavani:0,C041,2022-01-28,Ramdurg,Ramdurg,Y,Y,1,two_wheeler,car;bike,headline,core
+Udayavani:2,C011,2022-02-25,Sankeshwar (Hukkeri),Hukkeri,Y,Y,4,two_wheeler,bike,headline,core
+Udayavani:4,X,2022-02-03,Chitradurga,Chitradurga,N,Y,3,car,car;tanker,headline,core
+Udayavani:6,N,2022-04-20,Savadatti,Saundatti,Y,N,0,,vehicle overturned,headline,core
+Udayavani:7,C042,2022-04-19,Belagavi (storm),Belagavi City,Y,Y,1,two_wheeler,bike;tree,headline,borderline
+Udayavani:11,C001,2022-05-27,NH-4 (Chikkodi sub-division),Nippani,Y,Y,4,car,lorry;car,headline,core
+Udayavani:12,N,2022-05-26,Channamma Circle (Belagavi city),Belagavi City,Y,N,0,,goods tempo;multiple,headline,core
+Udayavani:14,C002,2022-06-26,Kalyal (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,headline,core
+Udayavani:15,C002,2022-06-26,Kanabargi (Marihal PS),Belagavi,Y,Y,7,car,cruiser;canal,headline,core
+Udayavani:21,C021,2022-07-11,Belagundi (Belagavi taluk),Belagavi,Y,Y,1,car,car;tree,headline,core
+Udayavani:22,C005,2022-08-20,Athani,Athani,Y,Y,2,bus,school bus;canter,headline,core
+Udayavani:24,C008,2022-08-06,Balekundri (Belagavi taluk),Belagavi,Y,Y,2,two_wheeler,tipper;two-wheeler,headline,core
+Udayavani:26,C006,2022-09-25,Savadatti,Saundatti,Y,Y,4,car,cement lorry;car,headline,core
+Udayavani:27,C031,2022-09-13,Belagavi,Belagavi City,Y,Y,1,two_wheeler,bike;tree,headline,borderline
+Udayavani:29,C035,2022-10-09,Sankeshwar (Hukkeri),Hukkeri,Y,Y,2,car,car;car;car;two-wheeler,headline,core
+Udayavani:39,C042,2022-04-19,Belagavi,Belagavi City,Y,Y,1,two_wheeler,tree,headline,borderline
+Udayavani:40,X,2022-05-22,Goa,,N,Y,3,car,car,headline,core
+Udayavani:42,C002,2022-06-26,Belagavi,Belagavi,Y,Y,7,car,goods vehicle,headline,core
+Udayavani:43,C002,2022-06-26,Belagavi (stream),Belagavi,Y,Y,7,car,goods vehicle;stream,headline,core
+Udayavani:46,C006,2022-09-25,Belagavi,Saundatti,Y,Y,4,car,cement lorry;car,headline,core
+Udayavani:52,C035,2022-10-09,Hukkeri,Hukkeri,Y,Y,2,car,multiple,headline,core
+Udayavani:53,N,2022-11-30,Sankeshwar,Hukkeri,Y,N,0,,bus,headline,core
+P2:Vijayavani:42,C043,2022-03-13,Narasingapur NH (Hukkeri),Hukkeri,Y,Y,2,car,Innova car;lorry,full_text,core
+P2:Vijayavani:164,C044,2022-08-13,Savadatti town outskirts,Saundatti,Y,Y,1,car,petrol tanker;car,full_text,core
+P2:Udayavani:129,C002,2022-06-26,Belagavi,Belagavi,Y,Y,7,car,cruiser,headline,core
+P2:Udayavani:241,C036,2022-10-15,Ramdurg,Ramdurg,Y,Y,2,two_wheeler,lorry;two-wheeler,headline,core
+P2:Udayavani:426,C021,2022-07-11,Belgaum,Belagavi,Y,Y,1,car,car;tree,headline,core
+P2:Udayavani:9,,2022-01-15,unknown,,U,Y,1,unknown,unknown,headline,core
+P2:Udayavani:45,X,2022-03-30,Bharathinagar (Mandya),Mandya,N,Y,1,two_wheeler,mini bus;bike,headline,core
+P2:Udayavani:79,,2022-04-23,unknown,,U,Y,2,unknown,pickup;lorry,headline,core
+P2:Udayavani:92,,2022-04-01,unknown,,U,Y,1,two_wheeler,lorry;bike,headline,core
+P2:Udayavani:121,,2022-05-06,unknown,,U,Y,1,two_wheeler,KSRTC bus;scooty,headline,core
+P2:Udayavani:123,,2022-05-04,unknown,,U,Y,1,two_wheeler,goods vehicle;bike,headline,core
+P2:Udayavani:140,,2022-06-17,unknown,,U,Y,1,two_wheeler,unknown vehicle;bike,headline,core
+P2:Udayavani:164,,2022-07-28,unknown,,U,Y,2,unknown,unknown vehicle,headline,core
+P2:Udayavani:197,,2022-08-20,unknown,,U,Y,2,car,car;lorry,headline,core
+P2:Udayavani:198,,2022-08-19,unknown,,U,Y,1,two_wheeler,bike,headline,core
+P2:Udayavani:230,,2022-09-02,unknown (treated in Solapur),,U,Y,1,unknown,unknown,headline,core
+P2:Udayavani:277,,2022-12-26,unknown,,U,Y,1,two_wheeler,lorry;two-wheeler,headline,core
+P2:Udayavani:405,,2022-06-13,unknown (Karnataka),,U,Y,1,truck,lorry,headline,core
+Public TV:10,N,2022-11-28,Olamani outskirts (Khanapur),Khanapur,Y,N,0,,private bus,full_text,core
+Public TV:21,C009,2022-10-06,Yaragatti,Yaragatti,Y,Y,1,pedestrian,car;parked lorry,full_text,core
+Public TV:23,C032,2022-09-26,between Rakshi and Shiragaon (Hukkeri PS),Hukkeri,Y,Y,2,two_wheeler,bike;parked tractor,full_text,core
+Public TV:24,C006,2022-09-25,Budigoppa cross (Saundatti),Saundatti,Y,Y,4,car,lorry;car;bike,full_text,core
+Public TV:29,N,2022-08-31,Harugeri (Raibag),Raibag,Y,N,0,,car,full_text,core
+Public TV:30,C005,2022-08-20,Athani (Chikkodi dateline),Athani,Y,Y,2,bus,college bus;goods lorry,full_text,core
+Public TV:32,C012,2022-08-03,Belagavi city,Belagavi City,Y,Y,1,two_wheeler,lorry,full_text,core
+Public TV:34,C023,2022-07-19,Bailhongal (Chivatagundi victims),Bailhongal,Y,Y,2,two_wheeler,car;bike,full_text,core
+Public TV:35,X,2022-07-18,West Bengal,,N,Y,1,pedestrian,lorry,full_text,core
+Public TV:41,C002,2022-06-26,Kalyal bridge (Belagavi taluk),Belagavi,Y,Y,7,car,cruiser,full_text,core
+Public TV:42,C002,2022-06-26,Belagavi taluk,Belagavi,Y,Y,7,car,cruiser;canal,full_text,core
+Public TV:45,N,2022-06-09,Gurlapur Jatt-Jamboti highway,Khanapur,Y,N,0,,KSRTC bus;college bus,full_text,core
+Public TV:46,C010,2022-06-02,Belagavi (NH),Belagavi,Y,Y,1,two_wheeler,unknown vehicle;bike,full_text,core
+Public TV:48,C001,2022-05-27,Nippani (Chikkodi dateline),Nippani,Y,Y,4,car,car;lorry,full_text,core
+Public TV:57,C043,2022-03-13,NH (Hukkeri),Hukkeri,Y,Y,2,car,car;lorry,full_text,core
+Public TV:61,C011,2022-02-24,Sankeshwar (Chikkodi dateline),Hukkeri,Y,Y,4,two_wheeler,bike,full_text,core
+Public TV:62,C007,2022-02-17,Chikkodi,Chikkodi,Y,Y,2,two_wheeler,KSRTC bus;bike,full_text,core
+Public TV:63,C045,2022-02-15,NH-4 (Sankeshwar PS Hukkeri),Hukkeri,Y,Y,2,car,Swift car;Bolero,full_text,core

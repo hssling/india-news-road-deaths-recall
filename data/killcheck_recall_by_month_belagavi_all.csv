@@ -1,0 +1,13 @@
+month,official_deaths,official_fatal_crashes,news_crashes_kn_en,news_deaths_kn_en,news_crashes_all,news_deaths_all,recall_deaths_all
+January,101,99.0,1.0,1.0,4,5,0.05
+February,98,91.0,3.0,8.0,8,14,0.143
+March,71,65.0,2.0,3.0,8,9,0.127
+April,65,61.0,0.0,0.0,2,2,0.031
+May,91,82.0,3.0,6.0,7,10,0.11
+June,78,69.0,3.0,10.0,5,12,0.154
+July,58,54.0,7.0,9.0,8,10,0.172
+August,65,61.0,10.0,13.0,13,16,0.246
+September,57,51.0,4.0,8.0,4,8,0.14
+October,74,74.0,6.0,10.0,10,14,0.189
+November,85,81.0,2.0,3.0,5,6,0.071
+December,70,69.0,1.0,2.0,5,6,0.086

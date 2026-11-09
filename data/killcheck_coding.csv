@@ -1,0 +1,260 @@
+ref,crash_id,crash_date,place,taluk,in_district,fatal,deaths,victim_types,vehicles,basis,scope
+Udayavani:3,C001,2022-01-18,Belthangady,Belthangady,Y,Y,2,two_wheeler,bike;lorry,headline,core
+Udayavani:10,C002,2022-01-02,Nelyadi,Kadaba,Y,Y,1,car,car;tree,headline,borderline
+Udayavani:14,C003,2022-02-20,Madhyangala (Puttur),Puttur,Y,Y,1,car,car;car,headline,core
+Udayavani:16,C004,2022-02-15,Bantwal,Bantwal,Y,Y,1,two_wheeler,car;bike,headline,core
+Udayavani:19,C005,2022-02-06,Bantwal,Bantwal,Y,Y,1,autorickshaw,car;autorickshaw,headline,core
+Udayavani:26,C006,2022-03-26,Ullal,Mangaluru,Y,Y,1,two_wheeler,car;scooter,headline,core
+Udayavani:29,C007,2022-03-18,Mangaluru,Mangaluru,Y,Y,1,unknown,unknown,headline,core
+Udayavani:35,C008,2022-03-07,Gadiyara (Vitla),Bantwal,Y,Y,1,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:36,C009,2022-03-01,Aranthodu,Sullia,Y,Y,1,pedestrian,car,headline,core
+Udayavani:41,C010,2022-04-25,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,scooter;lorry,headline,core
+Udayavani:51,C011,2022-04-09,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,BMW car;car;scooter,headline,core
+Udayavani:45,C011,2022-04-09,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,BMW car;car;scooter,headline,core
+Udayavani:47,C012,2022-04-20,Mangaluru,Mangaluru,Y,Y,1,bicycle,tipper;bicycle,headline,core
+Udayavani:48,C013,2022-04-19,Gantalkatte (Moodbidri),Moodbidri,Y,Y,1,two_wheeler,bike;scooter,headline,core
+Udayavani:55,C014,2022-04-03,Subrahmanya,Kadaba,Y,Y,1,two_wheeler,car;scooter,headline,core
+Udayavani:56,C015,2022-05-30,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,scooter;divider,headline,core
+Udayavani:61,C016,2022-05-26,Bantwal,Bantwal,Y,Y,1,pedestrian,unknown vehicle,headline,core
+Udayavani:75,C017,2022-05-17,Moodbidri,Moodbidri,Y,Y,1,pedestrian,unknown,headline,core
+Udayavani:97,C018,2022-05-10,Bantwal,Bantwal,Y,Y,1,pedestrian,scooter,headline,core
+Udayavani:99,C019,2022-05-09,Mulki,Mulki,Y,Y,1,two_wheeler,car;two-wheeler,headline,core
+Udayavani:101,C020,2022-05-09,Belthangady,Belthangady,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:102,C021,2022-05-08,Suratkal,Mangaluru,Y,Y,1,two_wheeler,car;bike,headline,core
+Udayavani:107,C022,2022-05-04,Puttur,Puttur,Y,Y,2,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:114,,2022-05-02,unknown (returning from Dharmasthala),,U,Y,1,unknown,unknown,headline,core
+Udayavani:117,C023,2022-06-30,Mulki,Mulki,Y,Y,1,other,tempo;electric pole,headline,core
+Udayavani:76,,2022-05-17,Kabaka,Puttur,Y,Y,1,pedestrian,train,headline,not_road
+Udayavani:84,,2022-05-15,DK+Udupi,,Y,N,0,,,headline,aggregate
+Udayavani:0,N,2022-01-29,Puttur,Puttur,Y,N,0,,jeep;autorickshaw,headline,core
+Udayavani:6,N,2022-01-10,Ullal,Mangaluru,Y,N,0,,bus;scooter,headline,core
+Udayavani:7,N,2022-01-08,Alakemajalu (Vitla),Bantwal,Y,N,0,,multiple,headline,core
+Udayavani:9,N,2022-01-03,Mangaluru,Mangaluru,Y,N,0,,police jeep,headline,core
+Udayavani:2,N,2022-01-23,Mangaluru,Mangaluru,Y,N,0,,container;car,headline,core
+Udayavani:17,N,2022-02-15,Bantwal,Bantwal,Y,N,0,,bus,headline,core
+Udayavani:20,N,2022-02-04,Mangaluru,Mangaluru,Y,N,0,,car;two-wheeler,headline,core
+Udayavani:28,N,2022-03-23,Bantwal,Bantwal,Y,N,0,,car,headline,core
+Udayavani:30,N,2022-03-17,Aranthodu,Sullia,Y,N,0,,bus,headline,core
+Udayavani:34,N,2022-03-08,Vitla,Bantwal,Y,N,0,,multiple,headline,core
+Udayavani:49,N,2022-04-19,Mani,Bantwal,Y,N,0,,bus;lorry;car,headline,core
+Udayavani:50,N,2022-04-13,Mangaluru,Mangaluru,Y,N,0,,bus,headline,core
+Udayavani:52,N,2022-04-08,Bantwal,Bantwal,Y,N,0,,car,headline,core
+Udayavani:53,N,2022-04-08,Mangaluru,Mangaluru,Y,N,0,,bus;bike,headline,core
+Udayavani:54,N,2022-04-04,Vitla,Bantwal,Y,N,0,,emergency vehicle;bike,headline,core
+Udayavani:58,N,2022-05-30,Mangaluru,Mangaluru,Y,N,0,,bike,headline,core
+Udayavani:63,N,2022-05-25,Belthangady,Belthangady,Y,N,0,,car,headline,core
+Udayavani:73,N,2022-05-18,Ivarnadu,Sullia,Y,N,0,,bolero,headline,core
+Udayavani:80,N,2022-05-15,Vitla,Bantwal,Y,N,0,,lorry;bike,headline,core
+Udayavani:88,N,2022-05-13,Ullal,Mangaluru,Y,N,0,,lorry,headline,core
+Udayavani:92,N,2022-05-11,Belthangady,Belthangady,Y,N,0,,goods vehicle,headline,core
+Udayavani:96,N,2022-05-10,Ivarnadu,Sullia,Y,N,0,,car;Mahindra Jeeto,headline,core
+Udayavani:111,N,2022-05-04,Sullia,Sullia,Y,N,0,,Toofan;scooter,headline,core
+Udayavani:118,N,2022-06-30,Sullia,Sullia,Y,N,0,,bolero,headline,core
+Udayavani:110,X,2022-05-05,Charmadi ghat,Chikkamagaluru,N,N,0,,car,headline,core
+Deccan Herald:10,N,2022-04-09,Mangaluru,Mangaluru,Y,N,0,,BMW car;car;scooter,full_text,core
+Deccan Herald:14,C015,2022-05-28,Usmania complex (Mangaluru),Mangaluru,Y,Y,1,two_wheeler,two-wheeler;divider,full_text,core
+Deccan Herald:20,C024,2022-07-09,Baithadka,Kadaba,Y,Y,2,car,car (Maruti 800) into rivulet,full_text,core
+Deccan Herald:34,C025,2022-11-05,Kallapu NH66,Mangaluru,Y,Y,2,two_wheeler,lorry;scooter,full_text,core
+Deccan Herald:46,C026,2022-12-05,Gurupura-Kaikamba NH169,Mangaluru,Y,Y,2,truck,lorry;mini lorry,full_text,core
+Deccan Herald:47,,2022-12-01,unknown (victim from Mudigere),,U,Y,1,two_wheeler,bike,full_text,core
+Prajavani:2,C027,2022-01-15,Charmadi Sunnada Goodu,Belthangady,Y,Y,1,two_wheeler,bus;bike,full_text,core
+Prajavani:7,C028,2022-03-18,Garddadi Nandibettu (Padangady),Belthangady,Y,Y,2,two_wheeler,KSRTC bus;two-wheeler,full_text,core
+Prajavani:18,C029,2022-04-10,Budoli near Mani NH75,Bantwal,Y,Y,1,car,car;car,full_text,core
+Prajavani:25,C010,2022-04-24,Jeppinamogaru NH66,Mangaluru,Y,Y,1,two_wheeler,lorry;scooter,full_text,core
+Prajavani:41,C030,2022-06-06,Cheru on Subrahmanya-Gundya SH,Kadaba,Y,Y,2,car,car;bridge parapet,full_text,core
+Prajavani:45,C031,2022-06-07,Charmadi Pandikatte,Belthangady,Y,Y,1,two_wheeler,bike;bike;truck,full_text,core
+Prajavani:52,C032,2022-06-15,Dharmasthala near Nethravathi ghat,Belthangady,Y,Y,1,two_wheeler,bike;fallen tree,full_text,core
+Prajavani:77,C024,2022-07-09,Baithadka,Puttur,Y,Y,2,car,car into river,full_text,core
+Prajavani:124,C033,2022-08-05,Bikarnakatte Kandettu cross NH73,Mangaluru,Y,Y,1,two_wheeler,scooter;divider (pothole),full_text,core
+Prajavani:129,C033,2022-08-05,Bikarnakatte,Mangaluru,Y,Y,1,two_wheeler,scooter,full_text,core
+Prajavani:133,C033,2022-08-05,Bikarnakatte,Mangaluru,Y,Y,1,two_wheeler,scooter,full_text,core
+Prajavani:141,C034,2022-09-02,Kallapu (Ullal),Mangaluru,Y,Y,1,pedestrian,lorry,full_text,core
+Prajavani:143,C035,2022-09-04,Kuntikana KSRTC depot,Mangaluru,Y,Y,1,two_wheeler,two-wheeler;divider,full_text,core
+Prajavani:144,C036,2022-09-04,Puttur outskirts,Puttur,Y,Y,1,two_wheeler,bike;pole;bus,full_text,core
+Prajavani:149,C037,2022-09-07,Adam Kudru NH66 (Ullal),Mangaluru,Y,Y,1,bus,city bus,full_text,core
+Prajavani:172,C038,2022-10-17,Lalbagh,Mangaluru,Y,Y,1,two_wheeler,city bus;scooter,full_text,core
+Prajavani:181,C039,2022-10-25,Kudmani bridge near Koila,Bantwal,Y,Y,1,two_wheeler,goods tempo;bike,full_text,core
+Prajavani:186,C040,2022-10-29,Deralakatte,Mangaluru,Y,Y,1,two_wheeler,bike,full_text,core
+Prajavani:190,C025,2022-11-05,Kallapu NH66,Mangaluru,Y,Y,2,two_wheeler,lorry;scooter,full_text,core
+Prajavani:205,C041,2022-11-28,Talapady toll gate NH66,Mangaluru,Y,Y,1,pedestrian,lorry,full_text,core
+Prajavani:206,C042,2022-11-28,Rosario road,Mangaluru,Y,Y,1,pedestrian,unknown vehicle,full_text,core
+Prajavani:211,C026,2022-12-05,Gurupura-Kaikamba NH169,Mangaluru,Y,Y,2,truck,lorry;mini lorry,full_text,core
+Prajavani:214,C043,2022-12-10,Nellikaru Maineru,Moodbidri,Y,Y,3,car,car;bus,full_text,core
+Prajavani:215,C044,2022-12-08,Kottara,Mangaluru,Y,Y,1,pedestrian,bus,full_text,core
+Prajavani:219,,2022-12-12,Parappe on Jalsoor-Kasaragod road,Sullia?,U,Y,2,car,Innova,full_text,core
+Prajavani:221,C045,2022-12-13,Kashipatna,Belthangady,Y,Y,1,unknown,autorickshaw;scooter,full_text,core
+Prajavani:223,C046,2022-12-12,Madaka (Ullal),Mangaluru,Y,Y,1,two_wheeler,bike,full_text,core
+Prajavani:235,C047,2022-12-27,Mudipu (Konaje PS),Mangaluru,Y,Y,1,pedestrian,car,full_text,core
+Prajavani:14,N,2022-04-09,Mangaluru,Mangaluru,Y,N,0,,BMW car;two-wheelers,full_text,core
+Prajavani:24,C011,2022-04-09,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,BMW car;scooter,full_text,core
+Prajavani:20,N,2022-04-12,Belthangady,Belthangady,Y,N,0,,unknown,full_text,core
+Prajavani:23,N,2022-04-20,Mangaluru,Mangaluru,Y,N,0,,container lorry,full_text,core
+Prajavani:54,N,2022-06-16,Charmadi ghat,Belthangady,Y,N,0,,goods vehicle,full_text,core
+Prajavani:74,N,2022-07-08,DK,,Y,N,0,,unknown,full_text,core
+Prajavani:83,N,2022-07-14,Urlandi (Puttur),Puttur,Y,N,0,,ambulance,full_text,core
+Prajavani:97,N,2022-07-24,Kaikamba,Mangaluru,Y,N,0,,car,full_text,core
+Prajavani:98,N,2022-07-25,DK,,Y,N,0,,vehicle in pothole,full_text,core
+Prajavani:112,N,2022-08-03,Bannadka,Moodbidri,Y,N,0,,bus,full_text,core
+Prajavani:165,N,2022-10-09,Kulashekara,Mangaluru,Y,N,0,,ambulance;bus,full_text,core
+Prajavani:168,N,2022-10-11,DK,,Y,N,0,,sand lorry;bike,full_text,core
+Prajavani:184,N,2022-10-29,DK,,Y,N,0,,bus;pickup,full_text,core
+Prajavani:65,X,2022-06-27,Bilikere (Mysuru),Mysuru,N,Y,1,,bus;tempo,full_text,core
+Prajavani:166,X,2022-10-09,Ullal (Bengaluru),Bengaluru,N,Y,1,,mini bus;bike,full_text,core
+Prajavani:217,X,2022-12-10,Nagathihalli (Mandya),Mandya,N,Y,5,,car;car,full_text,core
+Prajavani:183,X,2022-10-27,Kottigehara,Chikkamagaluru,N,N,0,,car,full_text,core
+Udayavani:130,,2021-11-25,Ullal,Mangaluru,Y,Y,1,two_wheeler,bike,headline,prior_year
+Udayavani:144,C048,2022-06-14,Bantwal,Bantwal,Y,Y,2,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:148,C049,2022-06-10,Vitla,Bantwal,Y,Y,1,pedestrian,lorry,headline,core
+Udayavani:154,C031,2022-06-07,Charmadi,Belthangady,Y,Y,1,two_wheeler,bike;truck,headline,core
+Udayavani:156,C030,2022-06-06,Kadaba,Kadaba,Y,Y,2,car,car;bridge parapet,headline,core
+Udayavani:163,C050,2022-05-31,Madanthyar/Bantwal,Belthangady,Y,Y,1,car,car;tanker,headline,core
+Udayavani:169,C051,2022-07-29,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,scooter;hump,headline,core
+Udayavani:195,C024,2022-07-09,Kaniyoor/Baithadka,Puttur,Y,Y,2,car,car into stream,headline,core
+Udayavani:197,C024,2022-07-09,Kaniyoor/Baithadka,Puttur,Y,Y,2,car,car into stream,headline,core
+Udayavani:199,C052,2022-07-08,Suratkal,Mangaluru,Y,Y,1,car,lorry toppled on parked Omni van,headline,core
+Udayavani:206,C053,2022-07-04,Puttur,Puttur,Y,Y,1,two_wheeler,bike;car,headline,core
+Udayavani:221,C054,2022-08-06,Vitla,Bantwal,Y,Y,1,two_wheeler,Activa;jeep,headline,core
+Udayavani:240,C055,2022-09-16,Ullal,Mangaluru,Y,Y,1,two_wheeler,fish lorry;bike,headline,core
+Udayavani:245,C056,2022-09-13,Ullal,Mangaluru,Y,Y,1,autorickshaw,autorickshaw,headline,core
+Udayavani:250,C057,2022-09-10,Sullia,Sullia,Y,Y,1,pedestrian,bike,headline,core
+Udayavani:255,C058,2022-09-02,Bantwal,Bantwal,Y,Y,1,pedestrian,car,headline,core
+Udayavani:259,C059,2022-10-26,Mangaluru,Mangaluru,Y,Y,1,pedestrian,truck,headline,core
+Udayavani:277,,2022-10-09,Bantwal,Bantwal,U,Y,1,pedestrian,tanker,headline,core
+Udayavani:285,C060,2022-10-04,Elimale,Sullia,Y,Y,2,two_wheeler,scooty;car,headline,core
+Udayavani:292,C061,2022-11-23,Dharmasthala,Belthangady,Y,Y,1,unknown,unknown,headline,core
+Udayavani:300,C062,2022-11-10,Kadaba,Kadaba,Y,Y,1,autorickshaw,autorickshaw;pickup,headline,core
+Udayavani:302,C063,2022-11-06,Sullia,Sullia,Y,Y,1,two_wheeler,bus;bike,headline,core
+Udayavani:311,C047,2022-12-27,Mudipu,Mangaluru,Y,Y,1,pedestrian,car,headline,core
+Udayavani:324,,2022-12-12,Sullia (Parappe?),Sullia?,U,Y,2,car,car,headline,core
+Udayavani:329,C064,2022-12-06,Puttur,Puttur,Y,Y,1,bus,KSRTC bus,headline,core
+Udayavani:332,C065,2022-12-03,Suratkal,Mangaluru,Y,Y,1,unknown,lorry,headline,core
+Udayavani:314,N,2022-12-25,Uppinangady,Puttur,Y,N,0,,bus;horse,headline,core
+Udayavani:211,X,2022-08-27,Tamil Nadu,,N,Y,1,,,headline,core
+Udayavani:326,X,2022-12-11,Shivamogga,,N,Y,3,,lorry;car,headline,core
+Udayavani:328,X,2022-12-07,Qatar,,N,Y,1,,,headline,core
+Udayavani:340,X,2022-01-23,Bengaluru,,N,Y,1,,,headline,core
+Udayavani:348,X,2022-01-14,Channarayapatna,,N,Y,2,,,headline,core
+Udayavani:404,,2022-04-17,Raichur?,,U,Y,1,,,headline,core
+Udayavani:344,C066,2022-01-19,Moodbidri area,Moodbidri,Y,Y,1,unknown,unknown,headline,core
+Udayavani:345,C001,2022-01-18,Belthangady,Belthangady,Y,Y,2,two_wheeler,bike;lorry,headline,core
+Udayavani:346,C067,2022-01-16,Shaktinagar,Mangaluru,Y,Y,1,pedestrian,pickup truck,headline,core
+Udayavani:354,C068,2022-01-07,Belthangady,Belthangady,Y,Y,1,two_wheeler,snapped power line,headline,borderline
+Udayavani:357,C002,2022-01-02,Uppinangady/Nelyadi NH75,Kadaba,Y,Y,1,car,car;tree,headline,borderline
+Udayavani:362,C003,2022-02-20,Puttur,Puttur,Y,Y,1,car,car;car,headline,core
+Udayavani:365,C004,2022-02-15,Bantwal,Bantwal,Y,Y,1,two_wheeler,car;scooter,headline,core
+Udayavani:371,C005,2022-02-06,Bantwal,Bantwal,Y,Y,1,autorickshaw,car;autorickshaw,headline,core
+Udayavani:376,C006,2022-03-26,Mangaluru (Ullal),Mangaluru,Y,Y,1,two_wheeler,car;scooter,headline,core
+Udayavani:378,C069,2022-03-26,Haleangadi NH66,Mangaluru,Y,Y,1,two_wheeler,bike;divider,headline,core
+Udayavani:379,C028,2022-03-18,Belthangady,Belthangady,Y,Y,2,two_wheeler,KSRTC bus;bike,headline,core
+Udayavani:381,C007,2022-03-18,Mangaluru,Mangaluru,Y,Y,1,unknown,unknown,headline,core
+Udayavani:389,C008,2022-03-07,Gadiyara (Vitla),Bantwal,Y,Y,1,two_wheeler,lorry;scooter,headline,core
+Udayavani:391,C009,2022-03-01,Aranthodu,Sullia,Y,Y,1,pedestrian,car,headline,core
+Udayavani:397,C010,2022-04-24,Mangaluru NH66,Mangaluru,Y,Y,1,two_wheeler,truck;scooter,headline,core
+Udayavani:399,C012,2022-04-20,Bajal,Mangaluru,Y,Y,1,bicycle,truck,headline,core
+Udayavani:400,C013,2022-04-19,Moodbidri,Moodbidri,Y,Y,1,two_wheeler,two-wheelers,headline,core
+Udayavani:410,C070,2022-04-09,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,bike;truck,headline,core
+Udayavani:412,C071,2022-04-09,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,bike;bike,headline,core
+Udayavani:414,C014,2022-04-03,Subrahmanya,Kadaba,Y,Y,1,two_wheeler,car;scooter,headline,core
+Udayavani:420,C016,2022-05-26,Bantwal,Bantwal,Y,Y,1,pedestrian,unknown vehicle,headline,core
+Udayavani:427,C017,2022-05-17,Moodbidri,Moodbidri,Y,Y,1,pedestrian,unknown,headline,core
+P2:Deccan Herald:15,C007,2022-03-17,Mangaluru (Traffic East PS),Mangaluru,Y,Y,1,unknown,unknown,full_text,core
+P2:Deccan Herald:27,C029,2022-04-10,Budoli NH75,Bantwal,Y,Y,1,car,car;car,full_text,core
+P2:Deccan Herald:37,C011,2022-04-09,Ballalbagh,Mangaluru,Y,Y,1,two_wheeler,BMW car,full_text,core
+P2:Deccan Herald:38,C011,2022-04-09,Ballalbagh,Mangaluru,Y,Y,1,two_wheeler,BMW car,full_text,core
+P2:Deccan Herald:24,,2022-04-05,unknown,,U,Y,1,unknown,unknown,full_text,core
+P2:Deccan Herald:8,X,2022-03-02,Santhekatte NH66,Udupi,N,Y,2,,bus;two-wheeler,full_text,core
+P2:Prajavani:1,C066,2022-01-20,Gantalkatte near Venoor,Moodbidri,Y,Y,1,unknown,unknown,full_text,core
+P2:Prajavani:17,C024,2022-07-09,Baithadka near Kaniyoor,Kadaba,Y,Y,2,car,car into stream,full_text,core
+Udayavani:432,C018,2022-05-10,Bantwal (Benky),Bantwal,Y,Y,1,pedestrian,scooter,headline,core
+Udayavani:434,C022,2022-05-04,Puttur,Puttur,Y,Y,2,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:439,C022,2022-05-04,Puttur,Puttur,Y,Y,2,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:437,C097,2022-05-05,Mangaluru,Mangaluru,Y,Y,1,car,car;truck,headline,core
+Udayavani:443,C073,2022-06-26,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,bike;bike,headline,core
+Udayavani:444,,2021-11-25,Ullal,Mangaluru,Y,Y,1,two_wheeler,bike,headline,prior_year
+Udayavani:457,C074,2022-06-19,Kinnigoli,Mulki,Y,Y,1,car,jeep,headline,core
+Udayavani:458,C075,2022-06-15,Uppinangady,Puttur,Y,Y,1,two_wheeler,lorry;two-wheeler,headline,core
+Udayavani:463,C032,2022-06-15,Dharmasthala,Belthangady,Y,Y,1,two_wheeler,bike;fallen tree,headline,core
+Udayavani:464,C048,2022-06-14,Bantwal,Bantwal,Y,Y,2,two_wheeler,tipper lorry;two-wheeler,headline,core
+Udayavani:467,C049,2022-06-10,Vitla,Bantwal,Y,Y,1,pedestrian,lorry,headline,core
+Udayavani:471,C031,2022-06-07,Charmadi ghat,Belthangady,Y,Y,1,two_wheeler,lorry,headline,core
+Udayavani:472,C030,2022-06-06,Kadaba,Kadaba,Y,Y,1,car,car;bridge,headline,core
+Udayavani:476,C076,2022-06-03,Ganjimutt NH169,Mangaluru,Y,Y,2,car,car;tree,headline,core
+Udayavani:480,C050,2022-05-31,Bantwal,Bantwal,Y,Y,1,car,car;tanker,headline,core
+Udayavani:489,C077,2022-07-22,Suratkal,Mangaluru,Y,Y,1,unknown,unknown,headline,core
+Udayavani:497,C024,2022-07-09,Kaniyoor,Kadaba,Y,Y,2,car,car into stream,headline,core
+Udayavani:503,C052,2022-07-08,Suratkal,Mangaluru,Y,Y,1,car,truck;omni van,headline,core
+Udayavani:514,C023,2022-06-30,Mulki,Mulki,Y,Y,1,other,tempo;electric pole,headline,core
+Udayavani:516,C078,2022-08-30,Puttur,Puttur,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:517,C079,2022-08-29,Punjalkatte,Bantwal,Y,Y,1,unknown,unknown,headline,core
+Udayavani:521,C080,2022-08-27,Mangaluru,Mangaluru,Y,Y,1,unknown,unknown,headline,core
+Udayavani:528,C033,2022-08-05,Bikarnakatte,Mangaluru,Y,Y,1,two_wheeler,scooter,headline,core
+Udayavani:536,C033,2022-08-05,Bikarnakatte,Mangaluru,Y,Y,1,two_wheeler,scooter;pole,headline,core
+Udayavani:545,C081,2022-09-26,Aranthodu,Sullia,Y,Y,1,two_wheeler,bike;autorickshaw,headline,core
+Udayavani:552,C082,2022-09-16,Puttur,Puttur,Y,Y,1,bus,bus,headline,core
+Udayavani:557,N,2022-09-16,Puttur,Puttur,Y,N,0,,bus,headline,core
+Udayavani:241,N,2022-09-16,Vitla,Bantwal,Y,N,0,,bus,headline,core
+Udayavani:556,C055,2022-09-16,Ullal NH66,Mangaluru,Y,Y,1,two_wheeler,fish lorry;bike,headline,core
+Udayavani:560,C037,2022-09-07,Mangaluru,Mangaluru,Y,Y,1,bus,bus,headline,core
+Udayavani:561,C083,2022-09-14,Haleangadi junction NH66,Mangaluru,Y,Y,1,unknown,unknown,headline,core
+Udayavani:563,C037,2022-09-07,Mangaluru,Mangaluru,Y,Y,1,bus,bus,headline,core
+Udayavani:564,C056,2022-09-13,Deralakatte (Ullal),Mangaluru,Y,Y,1,autorickshaw,autorickshaw,headline,core
+Udayavani:568,C057,2022-09-10,Sullia,Sullia,Y,Y,1,pedestrian,bike,headline,core
+Udayavani:571,C036,2022-09-04,Puttur,Puttur,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:572,C058,2022-09-02,Bantwal,Bantwal,Y,Y,1,pedestrian,car,headline,core
+Udayavani:575,C040,2022-10-29,Deralakatte,Mangaluru,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:579,C059,2022-10-26,Mangaluru,Mangaluru,Y,Y,1,pedestrian,truck,headline,core
+Udayavani:581,C039,2022-10-25,Bantwal,Bantwal,Y,Y,1,two_wheeler,goods tempo;bike,headline,core
+Udayavani:587,C084,2022-10-20,Bantwal,Bantwal,Y,Y,1,unknown,unknown,headline,core
+Udayavani:592,C085,2022-10-16,Punjalkatte,Bantwal,Y,Y,1,other,pickup;mini lorry,headline,core
+Udayavani:594,C038,2022-10-17,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,private bus;bike,headline,core
+Udayavani:596,C086,2022-10-15,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,omni;two-wheeler,headline,core
+Udayavani:604,C060,2022-10-04,Elimale,Sullia,Y,Y,2,two_wheeler,scooter;car,headline,core
+Udayavani:608,C087,2022-11-30,Puttur,Puttur,Y,Y,1,autorickshaw,autorickshaw,headline,core
+Udayavani:481,C051,2022-07-29,Mangaluru,Mangaluru,Y,Y,1,two_wheeler,scooter;hump,headline,core
+Udayavani:520,X,2022-08-27,Tamil Nadu,,N,Y,1,,,headline,core
+Udayavani:546,X,2022-09-25,Kuwait,,N,Y,1,,,headline,core
+Udayavani:562,X,2022-09-14,Pune,,N,Y,1,,,headline,core
+Udayavani:615,C061,2022-11-23,Dharmasthala,Belthangady,Y,Y,1,unknown,unknown,headline,core
+Udayavani:619,C088,2022-11-20,Mani NH75 (Vitla),Bantwal,Y,Y,1,pedestrian,bike,headline,core
+Udayavani:627,C089,2022-11-17,Bantwal,Bantwal,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:632,C090,2022-11-14,Darbe/Sampya (Puttur),Puttur,Y,Y,1,two_wheeler,scooter,headline,core
+Udayavani:634,C062,2022-11-10,Kadaba,Kadaba,Y,Y,1,autorickshaw,pickup van;autorickshaw,headline,core
+Udayavani:641,C025,2022-11-05,Mangaluru (Kallapu),Mangaluru,Y,Y,2,two_wheeler,bike;lorry,headline,core
+Udayavani:654,C091,2022-12-27,Kadaba,Kadaba,Y,Y,1,two_wheeler,scooty;Scorpio,headline,core
+Udayavani:655,C092,2022-12-26,Puttur,Puttur,Y,Y,1,unknown,autorickshaw;bike,headline,core
+Udayavani:658,C093,2022-12-24,Puttur,Puttur,Y,Y,1,other,goods rickshaw;school bus,headline,core
+Udayavani:666,C094,2022-12-21,Belthangady,Belthangady,Y,Y,1,two_wheeler,bike;bus,headline,core
+Udayavani:675,C046,2022-12-12,Ullal,Mangaluru,Y,Y,1,two_wheeler,bike,headline,core
+Udayavani:676,,2022-12-12,Sullia (Parappe?),Sullia?,U,Y,2,car,Innova,headline,core
+Udayavani:681,C044,2022-12-08,Mangaluru (Kottara),Mangaluru,Y,Y,1,pedestrian,bus,headline,core
+Udayavani:683,C095,2022-12-08,Belthangady,Belthangady,Y,Y,1,other,tractor,headline,borderline
+Udayavani:685,C096,2022-12-05,Melkar/Modankap,Bantwal,Y,Y,1,two_wheeler,lorry;scooter,headline,core
+Udayavani:687,C026,2022-12-05,Gurupura NH169,Mangaluru,Y,Y,2,truck,lorry;lorry,headline,core
+Udayavani:682,X,2022-12-07,Qatar,,N,Y,1,,,headline,core
+P2:Udayavani:7,C067,2022-01-16,Shaktinagar,Mangaluru,Y,Y,1,pedestrian,pickup truck,headline,core
+P2:Udayavani:15,C068,2022-01-07,Belthangady,Belthangady,Y,Y,1,two_wheeler,snapped power line,headline,borderline
+P2:Udayavani:33,C098,2022-02-13,Puttur,Puttur,Y,Y,1,bicycle,autorickshaw;bicycle,headline,core
+P2:Udayavani:51,C069,2022-03-25,Haleangadi,Mangaluru,Y,Y,1,two_wheeler,bike;divider,headline,core
+P2:Udayavani:79,C099,2022-04-21,Pavanje NH66,Mangaluru,Y,Y,2,unknown,unknown,headline,core
+P2:Udayavani:87,C029,2022-04-10,Budoli NH75,Bantwal,Y,Y,1,car,car;car,headline,core
+P2:Udayavani:119,C097,2022-05-05,Mangaluru,Mangaluru,Y,Y,1,car,car;truck,headline,core
+P2:Udayavani:126,C073,2022-06-25,Mulki,Mulki,Y,Y,1,two_wheeler,two-wheelers,headline,core
+P2:Udayavani:143,C100,2022-06-05,Kanyana,Bantwal,Y,Y,1,bicycle,JCB;bicycle,headline,core
+P2:Udayavani:187,C101,2022-08-12,Jeppinamogaru (Ullal),Mangaluru,Y,Y,1,pedestrian,unknown vehicle,headline,core
+P2:Udayavani:210,C036,2022-09-04,Puttur,Puttur,Y,Y,1,two_wheeler,bike;pole;bus,headline,core
+P2:Udayavani:222,C039,2022-10-25,Koila,Bantwal,Y,Y,1,two_wheeler,tempo;bike,headline,core
+P2:Udayavani:238,C087,2022-11-29,Nekkilady,Puttur,Y,Y,1,autorickshaw,pickup;autorickshaw,headline,core
+P2:Udayavani:241,C102,2022-11-25,Madanthyar,Belthangady,Y,Y,1,two_wheeler,lorry;bike,headline,core
+P2:Udayavani:259,C091,2022-12-26,Kadaba,Kadaba,Y,Y,1,two_wheeler,Scorpio;scooty,headline,core
+P2:Udayavani:263,C094,2022-12-20,Layila,Belthangady,Y,Y,1,two_wheeler,bike;bus,headline,core
+P2:Udayavani:341,C029,2022-04-10,NH75,Bantwal,Y,Y,1,car,car;car,headline,core
+P2:Udayavani:9,,2022-01-15,unknown,,U,Y,1,unknown,unknown,headline,core
+P2:Udayavani:116,,2022-05-06,unknown,,U,Y,1,two_wheeler,KSRTC bus;scooty,headline,core
+P2:Udayavani:121,,2022-05-04,unknown,,U,Y,1,two_wheeler,goods vehicle;bike,headline,core
+P2:Udayavani:152,,2022-07-28,unknown,,U,Y,2,unknown,unknown vehicle,headline,core
+P2:Udayavani:209,,2022-09-07,unknown,,U,Y,1,unknown,tanker,headline,core
+P2:Udayavani:260,,2022-12-26,unknown,,U,Y,1,two_wheeler,lorry;bike,headline,core
+P2:Udayavani:343,,2022-04-06,unknown,,U,Y,1,two_wheeler,bike;parked vehicle,headline,core
+P2:Udayavani:413,C054,2022-08-06,Vitla,Bantwal,Y,Y,1,two_wheeler,jeep;Activa,headline,core
+P2:Udayavani:425,C103,2022-09-16,Venur,Belthangady,Y,Y,1,two_wheeler,bike;Eicher lorry,headline,core
+P2:Udayavani:379,,2022-06-13,unknown (Karnataka),,U,Y,1,truck,lorry,headline,core
