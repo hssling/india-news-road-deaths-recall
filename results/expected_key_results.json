@@ -10,7 +10,7 @@
   "recall_pedestrian_pct": [22.1, 14.1, 31.9], "recall_two_wheeler_pct": [38.4, 30.4, 47.2], "or_pedestrian": [0.45, 0.24, 0.84],
   "share_ratio_pedestrian": 0.67, "share_ratio_car": 1.29,
   "transport_crude": 913, "transport_severity": [1262, 1001, 1616], "transport_own": [316, 272, 373],
-  "configurations": 2
+  "configurations": 2, "recall_with_borderline_pct": 36.5, "recall_with_undetermined_pct": 41.3
  },
  "belagavi": {
   "fatal_crashes": 857, "deaths": 913, "news_crashes": 79, "news_deaths": 112,
@@ -26,7 +26,7 @@
   "any_kannada_pct": 8.0, "any_english_pct": 2.6, "any_marathi_pct": 8.8,
   "marathi_only_crashes": 37, "marathi_only_deaths": 39, "marathi_only_single": 35,
   "kn_en_pi1_pct": 2.9, "kn_en_or": [39.0, 16.8, 101.7],
-  "configurations": 887
+  "configurations": 887, "recall_with_borderline_pct": 12.6, "recall_with_undetermined_pct": 14.0
  },
  "outlet_deaths_pct": {
   "dakshina_kannada": {"Udayavani": 32.7, "Prajavani": 10.8, "Deccan Herald": 3.2},
@@ -34,5 +34,5 @@
  },
  "articles_screened": 4152,
  "max_rhat": 1.002,
- "min_ess": 2321
+ "min_ess_floor": 2000
 }

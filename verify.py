@@ -85,12 +85,18 @@ summ = {"dakshina_kannada": pd.read_csv(D / "killcheck_summary.csv"), "belagavi"
 for key, outlets in E["outlet_deaths_pct"].items():
     for o, want in outlets.items():
         r = summ[key][summ[key].scope == f"outlet: {o}"].iloc[0]; check(f"{key}: {o} deaths (% of police)", p1(r.deaths / r.official_deaths), want)
+for key, fs in (("dakshina_kannada", ["killcheck_coding.csv"]), ("belagavi", ["killcheck_coding_belagavi.csv", "killcheck_coding_belagavi_mr.csv"])):
+    cd_ = pd.concat([pd.read_csv(D / f) for f in fs]); Dd = E[key]["deaths"]; nd = E[key]["news_deaths"]
+    bl = cd_[(cd_.in_district == "Y") & (cd_.fatal == "Y") & (cd_.scope == "borderline")].drop_duplicates("crash_id").deaths.sum()
+    un = cd_[(cd_.in_district == "U") & (cd_.fatal == "Y")].drop_duplicates(["crash_date", "place"]).deaths.sum()
+    check(f"{key}: recall with borderline events (%)", p1((nd + bl) / Dd), E[key]["recall_with_borderline_pct"])
+    check(f"{key}: recall, undetermined location counted in-district (%)", p1((nd + un) / Dd), E[key]["recall_with_undetermined_pct"])
 arts = sum(len(pd.read_csv(D / f)) for f in ("killcheck_articles.csv", "killcheck_articles_belagavi.csv", "killcheck_articles_belagavi_mr.csv"))
 check("articles fetched and screened", arts, E["articles_screened"])
-dg = json.loads((O / "diagnostics.json").read_text())
-check("max R-hat, all fits", round(max(v["rhat"] for v in dg.values()), 3), E["max_rhat"], 0.0005)
-check("min bulk ESS, all fits", min(int(v["ess"]) for v in dg.values()), E["min_ess"])
-check("divergent transitions, all fits", sum(v["divergences"] for v in dg.values()), 0)
+dg = json.loads((O / "diagnostics.json").read_text()); dk2 = json.loads((O / "diagnostics_kn_en.json").read_text()); allfits = list(dg.values()) + list(dk2.values())
+check("max R-hat, all fits incl. sensitivity", round(max(v["rhat"] for v in allfits), 3), E["max_rhat"], 0.0005)
+check("every bulk ESS exceeds 2,000 (1 = yes)", int(min(v["ess"] for v in allfits) > E["min_ess_floor"]), 1)
+check("divergent transitions, all fits", sum(v["divergences"] for v in allfits), 0)
 for k, want in (("A_main_Dakshina Kannada", E["dakshina_kannada"]["configurations"]), ("A_main_Belagavi", E["belagavi"]["configurations"])):
     check(f"enumerated configurations, {k[7:]}", dg[k]["n_configurations"], want)
 print(f"\n{n - len(fails)}/{n} checks passed")
