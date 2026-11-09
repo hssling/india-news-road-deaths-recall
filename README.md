@@ -2,10 +2,13 @@
 
 This repository holds the data and code for a validation study of online news as a source of road-death data in India.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24081423.svg)](https://doi.org/10.5281/zenodo.24081423)
+[![reproduce-and-verify](https://github.com/hssling/india-news-road-deaths-recall/actions/workflows/verify.yml/badge.svg)](https://github.com/hssling/india-news-road-deaths-recall/actions/workflows/verify.yml)
+
 - **What was compared.** Every 2022 report of a fatal road crash in 12 Kannada, English and Marathi online outlets was matched against the Karnataka State Police counts for Dakshina Kannada (315 deaths) and Belagavi (913 deaths).
 - **Method.** Police totals give deaths minus fatal crashes, which equals the sum of (deaths in a crash − 1). This bounds how often the news reports single-death and multi-death crashes, without a model. A finite-population Bayesian model enumerates every crash-size configuration consistent with the police totals. A second model estimates recall by road-user type.
 
-**Status.** The accompanying manuscript has been submitted for publication. Please cite the archived version of this repository (see `CITATION.cff`).
+**Status.** The accompanying manuscript has been submitted for publication. Please cite this archive until the article is out: Siddalingaiah H S. *News reports of road deaths in two Karnataka districts, 2022: coded crash files and code* (v1.0.0). Zenodo; 2026. https://doi.org/10.5281/zenodo.24081423
 
 ## Main findings
 
